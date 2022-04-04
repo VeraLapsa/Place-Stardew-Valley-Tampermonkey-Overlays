@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/place SDV Mouse Shop & PepeRat Allies
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the canvas! Made by r/httyd Edited For /r/stardewvalley Mouse Hat Shop
 // @author       oralekin, exdeejay (xDJ_), 101arrowz Edited for /r/stardewvalley by VeraLapsa
 // @match        https://hot-potato.reddit.com/embed*
@@ -13,7 +13,7 @@
 (function() {
   // OTHER MEMBERS OF R/PLACE: change the following URL to your own transparent PNG template!
   // Multiple copies of this script can be used at the same time.
-  const TEMPLATE = 'https://i.imgur.com/7dUkOH8.png';
+  const TEMPLATE = 'https://i.imgur.com/aflkiEF.png';
     //[from left,from top]
   const X_YCoords = [1645,956];
 
