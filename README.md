@@ -8,12 +8,8 @@ This will want you to allow access to all websites so if you're not comfortable 
 
 ***
 **Install from link**
-- [Main pixel art overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Main%20Place.user.js) @ 71,345
-- [Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/stardewvalleymousehouse.user.js) @ 1708,1008
-- ~~[Above Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays)~~
-- [Above Mouse Shop Overlay Respects Kobe's 24](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Above%20Mouse%20Shop%20Leaving%20Kobe.user.js) @ 1708,1000
-- [Below Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/861c1fba26285c7fdca30b9929fa53b1b8cb4d0f/r-place%20templater%20Below%20Mouse%20Hat%20Shop.user.js) @ 1708,1043
-- [Duck](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Duck.user.js) @ 1692,985
+- [Main pixel art overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/dcecd494cbb567697200bea02b37c500a9ce7e8e/r-place%20templater%20Stardew%20Valley%20Main%20Place.user.js) @ 71,345
+- [Mouse Shop Overlay with our PepeRat Allies](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20SDV%20Mouse%20Shop%20%26%20PepeRat%20Allies.user.js) @ 1645,956 to 1768,1082
 
 ***
 - Enjoy the overlays.
