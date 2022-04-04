@@ -6,14 +6,6 @@ This will want you to allow access to all websites so if you're not comfortable 
 
 **Please DM me on Discord if we need anything updated Vera#4726 or send a push request :)**
 
-**Manually Add Script**
-- Click on the Tamper Monkey icon up where extention icons are added( it's like a black rounded square with 2 white circles in it.)
-- Click create new script.
-- Clear the editor of it's default content.
-- Copy the code from a js file in this respository.
-- Save the script via File->Save or do a Ctrl-S
-- It should be enabled by default.
-- Do a Ctrl-Shift-R on /r/place to clear your cache.
 ***
 **Install from link**
 - [Main pixel art overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Main%20Place.user.js)
@@ -25,6 +17,16 @@ This will want you to allow access to all websites so if you're not comfortable 
 
 ***
 - Enjoy the overlays.
+
+***
+**Manually Add Script**
+- Click on the Tamper Monkey icon up where extention icons are added( it's like a black rounded square with 2 white circles in it.)
+- Click create new script.
+- Clear the editor of it's default content.
+- Copy the code from a js file in this respository.
+- Save the script via File->Save or do a Ctrl-S
+- It should be enabled by default.
+- Do a Ctrl-Shift-R on /r/place to clear your cache.
 ***
 *To Use the Scipt for other things* 
 - This script can do tranparent pngs and can have multilple versions of it running as long as you change the name of the script.
