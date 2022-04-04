@@ -13,7 +13,7 @@
 (function() {
   // OTHER MEMBERS OF R/PLACE: change the following URL to your own transparent PNG template!
   // Multiple copies of this script can be used at the same time.
-  const TEMPLATE = 'https://i.imgur.com/1Id3Hp6.png';
+  const TEMPLATE = 'https://i.imgur.com/F4kXi5l.png';
     //[from left,from top]
   const X_YCoords = [71,345];
 
