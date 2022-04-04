@@ -20,6 +20,7 @@ This will want you to allow access to all websites so if you're not comfortable 
 - [Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/stardewvalleymousehouse.user.js)
 - ~~[Above Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays)~~
 - [Above Mouse Shop Overlay Respects Kobe's 24](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Above%20Mouse%20Shop%20Leaving%20Kobe.user.js)
+- [Below Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Below%20Mouse%20Hat%20Shop.user.js)
 - [Duck](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Duck.user.js)
 
 ***
