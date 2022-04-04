@@ -9,7 +9,7 @@ This will want you to allow access to all websites so if you're not comfortable 
 ***
 **Install from link**
 - [Main pixel art overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/dcecd494cbb567697200bea02b37c500a9ce7e8e/r-place%20templater%20Stardew%20Valley%20Main%20Place.user.js) @ 71,345
-- [Mouse Shop Overlay with our PepeRat Allies]https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/a8e78d79caf5b4accda09a274b1267f5be023f58/r-place%20SDV%20Mouse%20Shop%20%26%20PepeRat%20Allies.user.js) @ 1645,956 to 1768,1082 - uses pinned sprites in defence-chat
+- [Mouse Shop Overlay with our PepeRat Allies](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/a8e78d79caf5b4accda09a274b1267f5be023f58/r-place%20SDV%20Mouse%20Shop%20%26%20PepeRat%20Allies.user.js) @ 1645,956 to 1768,1082 - uses pinned sprites in defence-chat
 
 ***
 - Enjoy the overlays.
