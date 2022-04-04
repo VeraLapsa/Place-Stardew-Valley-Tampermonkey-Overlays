@@ -2,6 +2,8 @@
 
 Add the [Tamper Monkey Extention](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
+This will want you to allow access to all websites so if you're not comfortable with that maybe don't do this. Just make sure your trust any scripts you add to it. I triple checked this script before I modified it for my use. Please be careful out there.
+
 - Click on the Tamper Monkey icon up where extention icons are added( it's like a black rounded square with 2 white circles in it.)
 - Click create new script.
 - Clear the editor of it's default content.
