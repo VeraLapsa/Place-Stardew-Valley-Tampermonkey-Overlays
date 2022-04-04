@@ -4,6 +4,9 @@ Add the [Tamper Monkey Extention](https://chrome.google.com/webstore/detail/tamp
 
 This will want you to allow access to all websites so if you're not comfortable with that maybe don't do this. Just make sure your trust any scripts you add to it. I triple checked this script before I modified it for my use. Please be careful out there.
 
+**Please DM me on Discord if we need anything updated Vera#4726 or send a push request :)**
+
+**Manually Add Script**
 - Click on the Tamper Monkey icon up where extention icons are added( it's like a black rounded square with 2 white circles in it.)
 - Click create new script.
 - Clear the editor of it's default content.
@@ -11,6 +14,12 @@ This will want you to allow access to all websites so if you're not comfortable 
 - Save the script via File->Save or do a Ctrl-S
 - It should be enabled by default.
 - Do a Ctrl-Shift-R on /r/place to clear your cache.
+***
+**Install from link**
+- [Main pixel art overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Main%20Place.user.js)
+- [Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Above%20Mouse%20Shop.user.js)
+- [Above Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/stardewvalleymousehouse.user.js)
+
 ***
 - Enjoy the overlay.
 ***
