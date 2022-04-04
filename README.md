@@ -19,9 +19,10 @@ This will want you to allow access to all websites so if you're not comfortable 
 - [Main pixel art overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Main%20Place.user.js)
 - [Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Above%20Mouse%20Shop.user.js)
 - [Above Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/stardewvalleymousehouse.user.js)
+- [Duck](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Duck.user.js)
 
 ***
-- Enjoy the overlay.
+- Enjoy the overlays.
 ***
 *To Use the Scipt for other things* 
 - This script can do tranparent pngs and can have multilple versions of it running as long as you change the name of the script.
