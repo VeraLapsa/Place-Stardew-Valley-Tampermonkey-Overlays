@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/place templater Stardew Valley Main Place
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the canvas! Made by r/httyd Edited For /r/stardewvalley Main Place
 // @author       oralekin, exdeejay (xDJ_), 101arrowz Edited for /r/stardewvalley by VeraLapsa
 // @match        https://hot-potato.reddit.com/embed*
@@ -13,7 +13,7 @@
 (function() {
   // OTHER MEMBERS OF R/PLACE: change the following URL to your own transparent PNG template!
   // Multiple copies of this script can be used at the same time.
-  const TEMPLATE = 'https://i.imgur.com/fVqFt8Y.png';
+  const TEMPLATE = 'https://i.imgur.com/GEBxIb0.png';
     //[from left,from top]
   const X_YCoords = [71,345];
 
