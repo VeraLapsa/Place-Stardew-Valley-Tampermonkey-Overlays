@@ -17,8 +17,9 @@ This will want you to allow access to all websites so if you're not comfortable 
 ***
 **Install from link**
 - [Main pixel art overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Main%20Place.user.js)
-- [Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Above%20Mouse%20Shop.user.js)
-- [Above Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/stardewvalleymousehouse.user.js)
+- [Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/stardewvalleymousehouse.user.js)
+- ~~[Above Mouse Shop Overlay](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays)~~
+- [Above Mouse Shop Overlay Respects Kobe's 24](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Above%20Mouse%20Shop%20Leaving%20Kobe.user.js)
 - [Duck](https://github.com/VeraLapsa/Place-Stardew-Valley-Tampermonkey-Overlays/raw/main/r-place%20templater%20Stardew%20Valley%20Duck.user.js)
 
 ***
